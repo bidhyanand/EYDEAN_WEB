@@ -20,13 +20,13 @@ This project is used by the Eydean.inc as its permanent Website
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://https://github.com/bidhyanand/EYDEAN_WEB.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd EYDEAN_WEB
 ```
 
 Install dependencies
@@ -82,6 +82,65 @@ https://cloudinary.com/
 
 > Fonts and Colors are configured in the (talwind.config.js)
 
+##  Folder Structure 
+
+**Components**
+
+>Inside the component folder **Layout.js** is file where the entrie project layout is structured
+
+>**Header** and **Footer.js** componets are made separetly.
+
+>All the content of pages are stored in components according to their features
+
+>**reusable Design** is a folder in which mostly reused componets file are placed there
+
+>Inside the components folder all the components are placed in their respective folder according to ther data.
+
+**Pages**
+
+>Inside the pages folder all the routing for the website is done.
+
+**Public**
+
+>Assets like font and images are stored in th epublic folder.
+
+>Generated xml files i.e **sitemap.xml** is stored in public folder
+
+**styles** 
+
+In the styles folder there are several files i.e
+**global , Home.module , Layout.module , slick.module.css**
+
+>inside the styles folder styling for the project is done here. Here in **global.css** the css code written here is applicable to the entire project in all the components
+
+**tailwind.config.js**
+
+inside the **tailwind.config.js** the assets like font and color are described here and using the denoted name in the tailwind.config file we can access the fonts and color whole over the project.
+
+**package.json**
+
+package.json is a file where all the installed pacakge for the project is shown here.
+
+## Future Addition
+
+For the future addition of the component in the project developer can easily make folder inside the components and easily handle it .
+
+To add the routing for the future purpose developer can esaily make file inside the pages and add their desired file names.
+
+Due to the easily naming convention in the projects and proper folder structure new developer can easily undersatnd the folder structure , code and make their desired changes according to their will .
+
+
+## Reason for choosing packages in the project
+
+>Using Next js it optimized our website and takes less time to render in the browser. using next js it increase our seo optimization.
+
+>Using talwind css is mandatory by the company for this project.
+
+>Material UI is used for to use the components that saves our time to code it
+
+## Problem faces during this project
+
+primary problem arises during this project is that in the header section we have to change the color of header  according to the slider and is not getting the color esaily so using the **context** save the index of slider and according to the index saved in context header color is changed.
 
 ## Screenshots
 
