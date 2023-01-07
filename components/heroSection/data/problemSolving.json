@@ -1,0 +1,29 @@
+{
+    "problemSolving":[
+        {
+            "id": 1,
+            "title": "Identifying the problems",
+            "body": "Every project is different and so should the process be. We will define a clear framework of how we communicate, exchange feedback and effectively work together."
+          },
+          {
+            "id": 2,
+            "title": "Research and development",
+            "body":"Every project is different and so should the process be. We will define a clear framework of how we communicate, exchange feedback and effectively work together."
+          },
+          {
+            "id": 3,
+            "title": "Finding solution for each sub problems",
+            "body":"Every project is different and so should the process be. We will define a clear framework of how we communicate, exchange feedback and effectively work together."
+        },
+          {
+            "id": 4,
+            "title": "Integrating all solutions into  one",
+            "body": "Every project is different and so should the process be. We will define a clear framework of how we communicate, exchange feedback and effectively work together."
+          },
+          {
+            "id": 5,
+            "title": "Profit",
+            "body": "Every project is different and so should the process be. We will define a clear framework of how we communicate, exchange feedback and effectively work together."
+          }
+    ]
+}

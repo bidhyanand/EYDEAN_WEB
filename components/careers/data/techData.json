@@ -1,0 +1,34 @@
+{
+    "technology":[
+        {   
+            "id":1,
+            "title":"QA Engineer",
+            "domain":"QA Engineer",
+            "time":"Full time"
+        },
+        {
+            "id":2,
+            "title":"Frontend Developer",
+            "domain":"React, Next Js",
+            "time":"3 Months Internship"
+        },
+        {   
+            "id":3,
+            "title":"Backend Developer",
+            "domain":"Python",
+            "time":"Full time"
+        },
+        {   
+            "id":4,
+            "title":"Mobile Developer",
+            "domain":"Flutter",
+            "time":"Full time"
+        },
+        {
+            "id":5,
+            "title":"Devops engineer",
+            "domain":"Devops engineer",
+            "time":"3 Months Internship"
+        }
+    ]
+}

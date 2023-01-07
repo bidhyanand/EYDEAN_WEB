@@ -1,0 +1,107 @@
+[
+    {
+      "id": 1,
+      "title": "QA Engineer",
+      "domain": "QA Engineer",
+      "time": "3 Months Internship",
+      "descriptions": [
+        "We are looking for a qualified Front-end developer to join our IT team. You will be responsible for building the ‘client-side’ of our web applications. You should be able to translate our company and customer needs into functional and appealing interactive applications.",
+        " If you’re interested in creating a user-friendly environment by writing code and moving forward in your career, then this job is for you. We expect you to be a tech-savvy professional, who is curious about new digital technologies and aspires to combine usability with visual design."
+      ],
+      "responsibilities": [
+        "lorem ipsum dolor sit amet",
+        "QA Engineer responsibilities no2",
+        "QA Engineer responsibilities no3",
+        "QA Engineer responsibilities no4",
+        "QA Engineer responsibilities no5"
+      ],
+      "qualifications": [
+        "lorem ipsum dolor sit amet",
+        "QA Engineer qualificationsData1",
+        "QA Engineer dolor2"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Frontend Developer",
+      "domain": "Frontend Developer",
+      "time": "Full-time",
+      "descriptions": [
+        "We are looking for a qualified Front-end developer to join our IT team. You will be responsible for building the ‘client-side’ of our web applications. You should be able to translate our company and customer needs into functional and appealing interactive applications.",
+        " If you’re interested in creating a user-friendly environment by writing code and moving forward in your career, then this job is for you. We expect you to be a tech-savvy professional, who is curious about new digital technologies and aspires to combine usability with visual design."
+      ],
+      "responsibilities": [
+        "lorem ipsum dolor sit amet",
+        "QA Engineer",
+        "QA Engineer"
+      ],
+      "qualifications": [
+        "lorem ipsum dolor sit amet",
+        "QA Engineer",
+        "QA Engineer"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Backend Developer",
+      "domain": "Backend Developer",
+      "time": "Full-time",
+      "descriptions": [
+        "lorem ipsum dolor sit amet",
+        "QA Engineer",
+        "QA Engineer"
+      ],
+      "responsibilities": [
+        "lorem ipsum dolor sit amet",
+        "QA Engineer",
+        "QA Engineer"
+      ],
+      "qualifications": [
+        "lorem ipsum dolor sit amet",
+        "QA Engineer",
+        "QA Engineer"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Mobile Developer",
+      "domain": "Flutter",
+      "time": "Full-time",
+      "descriptions": [
+        "lorem ipsum dolor sit amet",
+        "QA Engineer",
+        "QA Engineer"
+      ],
+      "responsibilities": [
+        "lorem ipsum dolor sit amet",
+        "QA Engineer",
+        "QA Engineer"
+      ],
+      "qualifications": [
+        "lorem ipsum dolor sit amet",
+        "QA Engineer",
+        "QA Engineer"
+      ]
+    }, 
+    {
+      "id": 5,
+      "title": "Devops Engineer",
+      "domain": "Devops Engineer",
+      "time": "Full-time",
+      "descriptions": [
+        "lorem ipsum dolor sit amet",
+        "QA Engineer",
+        "QA Engineer"
+      ],
+      "responsibilities": [
+        "lorem ipsum dolor sit amet",
+        "QA Engineer",
+        "QA Engineer"
+      ],
+      "qualifications": [
+        "lorem ipsum dolor sit amet",
+        "QA Engineer",
+        "QA Engineer"
+      ]
+    }
+  ]

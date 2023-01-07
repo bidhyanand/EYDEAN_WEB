@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://eydean.com
+
+# Sitemaps
+Sitemap: https://eydean.com/sitemap.xml

@@ -1,0 +1,58 @@
+{
+    "tabData":[
+        {
+            "id": "a",
+            "name": "Mission",
+            "contents":[
+                {
+                    "id":1,
+                    "body":"",
+                    "title":"Eydean is a specialized global software company that addresses complex technology issues. We align strategy and implementation to help our customers reinforce their core technology."
+                }
+            ]
+        },
+        {
+            "id": "b",
+            "name": "Potential",
+            "contents":[
+                {
+                    "id":1,
+                    "body":"",
+                    "title":"Eydean has recognized its potential in the world to come where technology will drive the major lifeprocesses globally. Our aspiritation is to tap that global tech revolution."
+                }
+            ]
+        },
+        {
+            "id": "c",
+            "name": "We stand for",
+            "contents":[
+                {
+                    "id":1,
+                    "title":"Transparancy and Openness",
+                    "body":"We believe in sharing. What we wish to share could be our software, learning, expertise etc."
+                },
+                {
+                    "id":2,
+                    "title":"Mutualism",
+                    "body":"We believe in sharing. What we wish to share could be our software, learning, expertise etc."
+                },
+                {
+                    "id":3,
+                    "title": "A better future",
+                    "body":"We believe in simplicity. We believe in creating simple things. We believe in creating simple things that are useful."
+                }
+            ]
+        },
+        {
+            "id": "d",
+            "name": "Solution",
+            "contents":[
+                {
+                    "id":1,
+                    "title":"Whether you are a mutinational corporation with a very large numericals to play with or Small/medium sized business to evolve eventually, we cater your need the way you prefer.",
+                    "body":""
+                }
+            ]
+        }
+    ]
+}

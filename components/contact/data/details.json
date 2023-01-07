@@ -1,0 +1,19 @@
+{
+    "countries":[
+        {
+            "country":"Nepal",
+            "location":"Geetanjali chwok, Nayabazzar, Dathu Sadak, Kathmandu",
+            "no":"+977 9840067049"
+        },
+        {
+            "country": "USA",
+            "location":"511 Locust Street, Kalamazoo, MI 49007",
+            "no":"+1 269 359 6992"
+        },
+        {
+            "country": "India",
+            "location":"Geetanjali chwok, Nayabazzar, Dathu Sadak, Kathmandu",
+            "no":"+91 69 359 6992"  
+        }
+    ]
+}

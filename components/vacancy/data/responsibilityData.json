@@ -1,0 +1,26 @@
+{
+    "Responsibilities":[
+            {
+                "body":"Reviewing application requirements and interface designs."
+            },
+            {
+                "body":"Identifying web-based user interactions." 
+            },
+            {
+                "body":"Developing and implementing highly responsive user interface components using react concepts."
+            },
+            {
+                "body":"Writing application interface codes using JavaScript following react.js workflows."
+            },
+            {
+                "body":"Troubleshooting interface software and debugging application codes."
+            },
+            {
+                "body":"Monitoring and improving front-end performance."
+            },
+            {
+                "body":"Documenting application changes and developing updates."
+            }
+
+    ]
+}

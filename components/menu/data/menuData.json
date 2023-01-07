@@ -1,0 +1,100 @@
+{
+    "header": [
+        {
+            "title": "About Us",
+            "path": "/about"
+        },
+        {
+            "title": "Products",
+            "path": "/products"
+        },
+        {
+            "title": "Our Work",
+            "path": "/ourwork"
+        }
+    ],
+    "expertise": {
+        "title": "Expertise",
+        "data": [
+            {
+                "title": "Insights",
+                "path": "/insights"
+            },
+            {
+                "title": "Acceleration",
+                "path": "/acceleration"
+            },
+            {
+                "title": "Innovations",
+                "path": "/innovations"
+            },
+            {
+                "title": "Assurance",
+                "path": "/assurance"
+            },
+            {
+                "title": "Explore More +",
+                "path": "/more"
+            }
+        ]
+    },
+    "Industries": {
+        "title": "Industries",
+        "data": [
+            {
+                "title": "Agriculture",
+                "path": "/agriculture"
+            },
+            {
+                "title": "Automotive",
+                "path": "/automotive"
+            },
+            {
+                "title": "Communication",
+                "path": "/communication"
+            },
+            {
+                "title": "Education",
+                "path": "/education"
+            },
+            {
+                "title": "Explore More +",
+                "path": "/more"
+            }
+        ]
+    },
+   "footer": {
+    "socialMedia": [
+        {
+            "title": "Facebook",
+            "path": "https://www.facebook.com/"
+        },
+        {
+            "title": "Twitter",
+            "path": "https://twitter.com/"
+        },
+        {
+            "title": "LinkedIn",
+            "path": "https://www.linkedin.com/"
+        },
+        {
+            "title": "Instagram",
+            "path": "https://www.instagram.com/"
+        },
+        {
+            "title": "Dribble",
+            "path": "https://www.dribble.com/"
+        },
+        {
+            "title": "Pinterest",
+            "path": "https://www.pinterest.net/"
+        }
+    ],
+    "footerInfo": [
+        {"email": "info@eydean.com"},
+        {"phone": "(+977) 9840067049"}
+    ],
+    "country":["Nepal", "USA", "India" ],
+    "address":"6th Floor, R.B Tower, Lazimpat Road"
+   }
+}

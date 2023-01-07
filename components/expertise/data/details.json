@@ -1,0 +1,120 @@
+[
+    {
+      "id": 1,
+      "title": "Insights",
+      "icon":"https://res.cloudinary.com/dhxccll9e/image/upload/v1662970925/homePage/expertise/insightsNew_zligvw.svg",
+      "subtitle":[
+        {
+            "title": "AI & Automation",
+            "image":"https://res.cloudinary.com/dhxccll9e/image/upload/v1664176979/homePage/expertise/devops_vklohq.svg",
+            "body":"Automation and artificial intelligence change business by redefining the way companies can succeed in their competitive market."
+        },
+        {
+            "title":"Data Analytics",
+            "image":"https://res.cloudinary.com/dhxccll9e/image/upload/v1664176979/homePage/expertise/devops_vklohq.svg",
+            "body":"Data analytics is the process of examining data sets in order to draw conclusions about the information they contain."
+        }
+    ]
+    },
+    {
+      "id": 2,
+      "title": "Acceleration",
+      "icon":"https://res.cloudinary.com/dhxccll9e/image/upload/v1662970604/homePage/expertise/accelerationNew_qtlcap.svg",
+      "subtitle":[
+        {
+            "title": "Devops",
+            "image":"https://res.cloudinary.com/dhxccll9e/image/upload/v1664176979/homePage/expertise/devops_vklohq.svg",
+            "body":"Since DevOps is a business-driven approach to delivering software we focus on its introduction with AI and automation that in-return builds technology integrated into that system."
+        },
+        {
+            "title": "API and Microservices",
+            "image":"https://res.cloudinary.com/dhxccll9e/image/upload/v1664176979/homePage/expertise/devops_vklohq.svg",
+            "body":"Data analytics can unlock a new road of possibilities and Eydean aspires to do the same for you. Eydean can help in analyzing the API calls, the inbound and outbound data flows, in order to help clients see what they wouldn't see with a naked eye, or via basic statistical analytics...."
+        },
+        {
+            "title": "Cloud",
+            "image":"https://res.cloudinary.com/dhxccll9e/image/upload/v1664176979/homePage/expertise/devops_vklohq.svg",
+            "body":"Cloud computing is the on-demand availability of computer system resources, especially data storage and computing power, without direct active management by the user."
+        },
+        {
+            "title": "Mobile",
+            "image":"https://res.cloudinary.com/dhxccll9e/image/upload/v1664176979/homePage/expertise/devops_vklohq.svg",
+            "body":"Mobile computing is the act of computing while moving. It is a form of wireless computing where mobile devices such as laptops, tablets, and smartphones are connected to the Internet."
+        }
+    ]
+    },
+    {
+      "id": 3,
+      "title": "Innovations",
+      "icon":"https://res.cloudinary.com/dhxccll9e/image/upload/v1662971461/homePage/expertise/innovationNew_owtcdr.svg",
+      "subtitle":[
+        {
+            "title": "Devops",
+            "image":"https://res.cloudinary.com/dhxccll9e/image/upload/v1664176979/homePage/expertise/devops_vklohq.svg",
+            "body":"Since DevOps is a business-driven approach to delivering software we focus on its introduction with AI and automation that in-return builds technology integrated into that system."
+        },
+        {
+            "title": "API and Microservices",
+            "image":"https://res.cloudinary.com/dhxccll9e/image/upload/v1664176979/homePage/expertise/devops_vklohq.svg",
+            "body":"Data analytics can unlock a new road of possibilities and Eydean aspires to do the same for you. Eydean can help in analyzing the API calls, the inbound and outbound data flows, in order to help clients see what they wouldn't see with a naked eye, or via basic statistical analytics...."
+        },
+        {
+            "title": "Cloud",
+            "image":"https://res.cloudinary.com/dhxccll9e/image/upload/v1664176979/homePage/expertise/devops_vklohq.svg",
+            "body":"Cloud computing is the on-demand availability of computer system resources, especially data storage and computing power, without direct active management by the user."
+        }
+    ]
+    },
+    {
+      "id": 4,
+      "title": "Assurance",
+      "icon":"https://res.cloudinary.com/dhxccll9e/image/upload/v1662971461/homePage/expertise/assuranceNew_c7zmqi.svg",
+      "subtitle":[
+        {
+            "title": "Devops",
+            "image":"https://res.cloudinary.com/dhxccll9e/image/upload/v1664176979/homePage/expertise/devops_vklohq.svg",
+            "body":"Since DevOps is a business-driven approach to delivering software we focus on its introduction with AI and automation that in-return builds technology integrated into that system."
+        },
+        {
+            "title": "API and Microservices",
+            "image":"https://res.cloudinary.com/dhxccll9e/image/upload/v1664176979/homePage/expertise/devops_vklohq.svg",
+            "body":"Data analytics can unlock a new road of possibilities and Eydean aspires to do the same for you. Eydean can help in analyzing the API calls, the inbound and outbound data flows, in order to help clients see what they wouldn't see with a naked eye, or via basic statistical analytics...."
+        }
+    ]
+    }, 
+    {
+      "id": 5,
+      "title": "App Development & Maintenance",
+      "icon":"https://res.cloudinary.com/dhxccll9e/image/upload/v1663221068/homePage/expertise/app_development_fweuwt.svg",
+      "subtitle":[
+        {
+            "title": "Devops",
+            "image":"https://res.cloudinary.com/dhxccll9e/image/upload/v1664176979/homePage/expertise/devops_vklohq.svg",
+            "body":"Since DevOps is a business-driven approach to delivering software we focus on its introduction with AI and automation that in-return builds technology integrated into that system."
+        }
+    ]},
+    {
+        "id": 6,
+        "title": "Business Process Management",
+        "icon":"https://res.cloudinary.com/dhxccll9e/image/upload/v1662971461/homePage/expertise/businessNew_grtd2j.svg",
+        "subtitle":[
+            {
+                "title": "Devops",
+                "image":"https://res.cloudinary.com/dhxccll9e/image/upload/v1664176979/homePage/expertise/devops_vklohq.svg",
+                "body":"Since DevOps is a business-driven approach to delivering software we focus on its introduction with AI and automation that in-return builds technology integrated into that system."
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Consulting Service",
+        "icon":"https://res.cloudinary.com/dhxccll9e/image/upload/v1662971461/homePage/expertise/consultingNew_i0ocax.svg",
+        "subtitle":[
+            {
+                "title": "Devops",
+                "image":"https://res.cloudinary.com/dhxccll9e/image/upload/v1664176979/homePage/expertise/devops_vklohq.svg",
+                "body":"Since DevOps is a business-driven approach to delivering software we focus on its introduction with AI and automation that in-return builds technology integrated into that system."
+            }
+        ]
+      }
+  ]

@@ -1,0 +1,79 @@
+{
+    "features":[
+        {
+            "id": 1,
+            "title": "Insights",
+            "features1": "AI/Automation",
+            "features2": "Data Analytics",
+            "features3": "",
+            "features4": "",
+            "features5": "",
+            "features6": "",
+            "icon": "https://res.cloudinary.com/dhxccll9e/image/upload/v1662970925/homePage/expertise/insightsNew_zligvw.svg"
+          },
+          {
+            "id": 2,
+            "title": "Acceleration",
+            "features1":"DevOps",
+            "features2":"API & Microservices",
+            "features3":"Cloud",
+            "features4":"Digital Process Automation",
+            "features5":"Open Source Development & Migration",
+            "features6":"",
+            "icon": "https://res.cloudinary.com/dhxccll9e/image/upload/v1662970604/homePage/expertise/accelerationNew_qtlcap.svg"
+          },
+          {
+            "id": 3,
+            "title": "Innovations",
+            "features1":"Blockchain",
+            "features2":"Engineering Services",
+            "features3":"Internet of Things",
+            "features4":"",
+            "features5":"",
+            "features6":"",
+            "icon": "https://res.cloudinary.com/dhxccll9e/image/upload/v1662971461/homePage/expertise/innovationNew_owtcdr.svg"
+          },
+          {
+            "id": 4,
+            "title": "Assurance",
+            "features1": "Quality Control",
+            "features2": "",
+            "features3": "",
+            "features4": "",
+            "features5": "",
+            "features6": "",
+            "icon": "https://res.cloudinary.com/dhxccll9e/image/upload/v1662971461/homePage/expertise/assuranceNew_c7zmqi.svg"
+          },
+          {
+            "id": 5,
+            "title": "App Development & Maintenance",
+            "features1": "",
+            "features2": "",
+            "features3": "",
+            "features4": "",
+            "features5": "",
+            "icon": "https://res.cloudinary.com/dhxccll9e/image/upload/v1662971461/homePage/expertise/appNew_atdie7.svg"
+          },
+          {
+            "id": 5,
+            "title": "Business Process Management",
+            "features1": "",
+            "features2": "",
+            "features3": "",
+            "features4": "",
+            "features5": "",
+            "features6":"",
+            "icon": "https://res.cloudinary.com/dhxccll9e/image/upload/v1662971461/homePage/expertise/businessNew_grtd2j.svg"
+          },
+          {
+            "id": 5,
+            "title": "Consulting Service",
+            "features1": "",
+            "features2": "",
+            "features3": "",
+            "features4": "",
+            "features5": "",
+            "icon": "https://res.cloudinary.com/dhxccll9e/image/upload/v1662971461/homePage/expertise/consultingNew_i0ocax.svg"
+          }
+    ]
+}

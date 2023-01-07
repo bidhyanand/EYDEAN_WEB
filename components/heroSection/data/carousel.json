@@ -1,0 +1,39 @@
+{
+    "carousel":[
+        {
+            "id": 1,
+            "name": "Anish Thapa",
+            "org": "Barcelona",
+            "alt": "image",
+            "src":"https://res.cloudinary.com/dhxccll9e/image/upload/v1662546604/homePage/reviewerClients/reviewerClient_dsuwgp.png",
+            "body": "Adding Eydean's strategic technological components to your company platform, we were successful in establishing a healthy client base."
+          },
+          {
+            "id": 1,
+            "name": "Rajan Mainali",
+            "org": "B2B Nepal",
+            "alt": "image",
+            "body": "hey lorem ipsum dolor sit amet internal null",
+            "src":"https://res.cloudinary.com/dhxccll9e/image/upload/v1662546604/homePage/reviewerClients/reviewerClient_dsuwgp.png"
+
+          },
+          {
+            "id": 1,
+            "name": "Rajan Mainali",
+            "org": "B2B Nepal",
+            "alt": "image",
+            "body": "hi, lorem ipsum dolor sit amet internal null and then some more text",
+            "src":"https://res.cloudinary.com/dhxccll9e/image/upload/v1662546604/homePage/reviewerClients/reviewerClient_dsuwgp.png"
+
+          },
+          {
+            "id": 1,
+            "name": "Anish Thapa",
+            "org": "FC Barcelona",
+            "alt": "image",
+            "body": "hello, lorem ipsum dolor sit amet ",
+            "src":"https://res.cloudinary.com/dhxccll9e/image/upload/v1662546604/homePage/reviewerClients/reviewerClient_dsuwgp.png"
+
+          }
+    ]
+}

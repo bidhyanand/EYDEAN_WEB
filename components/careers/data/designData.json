@@ -1,0 +1,17 @@
+
+{
+    "design":[
+        {
+            "id":1,
+            "title":"Sr. UX Designer",
+            "domain":"Sr. UX Designer",
+            "time":"Full time"
+        },
+        {
+            "id":2,
+            "title":"Illustration & Motion Designer",
+            "domain":"Illustration Designer",
+            "time":"Full time"
+        }
+    ]
+}

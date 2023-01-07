@@ -1,0 +1,52 @@
+{
+    "carousel":[
+        {
+            "id": 1,
+            "name": "Anish Thapa",
+            "org": "Barcelona",
+            "alt": "image",
+            "src": "https://res.cloudinary.com/dhxccll9e/image/upload/v1662539054/aboutUs/teamMembers/saroj_gmszxv.png",
+            "designation": "Sr. UI/UX Designer"
+          },
+          {
+            "id": 2,
+            "name": "Rajan Mainali",
+            "org": "B2B Nepal",
+            "alt": "image",
+            "src": "https://res.cloudinary.com/dhxccll9e/image/upload/v1662539034/aboutUs/teamMembers/sanjay_tmwjsw.png",
+            "designation": "QA Engineer"
+          },
+          {
+            "id": 3,
+            "name": "Rajan Mainali",
+            "org": "B2B Nepal",
+            "alt": "image",
+            "src": "https://res.cloudinary.com/dhxccll9e/image/upload/v1662539054/aboutUs/teamMembers/saroj_gmszxv.png",
+            "designation": "Jr. Flutter Developer"
+          },
+          {
+            "id": 4,
+            "name": "Rajan Mainali",
+            "org": "B2B Nepal",
+            "alt": "image",
+            "src": "https://res.cloudinary.com/dhxccll9e/image/upload/v1662539034/aboutUs/teamMembers/sanjay_tmwjsw.png",
+            "designation": "Jr. Frontend Developer"
+          },
+          {
+            "id": 5,
+            "name": "Rajan Mainali",
+            "org": "B2B Nepal",
+            "alt": "image",
+            "src": "https://res.cloudinary.com/dhxccll9e/image/upload/v1662539054/aboutUs/teamMembers/saroj_gmszxv.png",
+            "designation": "Jr. Backend Developer"
+          },
+          {
+            "id": 6,
+            "name": "Rajan Mainali",
+            "org": "B2B Nepal",
+            "alt": "image",
+            "src": "https://res.cloudinary.com/dhxccll9e/image/upload/v1662539034/aboutUs/teamMembers/sanjay_tmwjsw.png",
+            "designation": "Jr. Flutter Developer"
+          }
+    ]
+}

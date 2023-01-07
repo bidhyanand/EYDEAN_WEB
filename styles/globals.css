@@ -1,0 +1,114 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+/* global fonts */
+@font-face {
+  font-family: 'Trap-Regular';
+  src: url('../public/assets/trap_font/Trap-Regular.otf');
+}
+@font-face {
+  font-family: 'Trap-Bold';
+  src: url('../public/assets/trap_font/Trap-Bold.otf');
+}
+
+@font-face {
+  font-family: 'Trap-Black';
+  src: url('../public/assets/trap_font/Trap-Black.otf');
+}
+
+
+.main-container {
+
+}
+.header-container {
+  width: 100%;
+  position: relative;
+  top: 0;
+  z-index: 999;
+  display: block;
+  justify-content: center;
+  /* background-color: black; */
+}
+.content-container{
+
+
+} 
+
+
+.footer-container{
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  display: block;
+  background-color: black;
+  flex-direction: column;
+}
+
+/* .cursor--link-hovered {
+  transform: translate(-50%, -50%) scale(1.25);
+} */
+
+/* html,body {
+  cursor: none
+}
+html *,body * {
+  cursor: none;
+}
+.c--hidden {
+   opacity: 0;
+}
+.c--clicked {
+  transform: translate(-50%, -50%) scale(0.5);
+  background: red;
+} */
+
+.cursor {
+  content: "";
+  position: fixed;
+  width: 50px;
+  height: 50px;
+  border: 2px solid white;
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+	border-radius: 50%;
+	mix-blend-mode: difference;
+	pointer-events: none;
+	user-select: none;
+  z-index: 9999;
+  }
+  .cursor::after {
+  content: "";
+  mix-blend-mode: difference;
+  pointer-events: none;
+  user-select: none;
+  width: 14px;
+  height: 14px;
+  background:white;
+  border-radius: 50%;
+  opacity: 100;
+  position: fixed;
+  top:16px;
+  left:16px;
+  }
+  @keyframes cursorAnim {
+  0% {
+  transform: scale(1);
+  }
+  50% {
+  transform: scale(2);
+  }
+  100% {
+  transform: scale(1);
+  opacity: 0;
+  }
+  }
+  .expand {
+  animation: cursorAnim 1s forwards;
+  }
+
+
+  

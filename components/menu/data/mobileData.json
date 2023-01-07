@@ -1,0 +1,26 @@
+{
+    "features": [
+        {
+            "title": "Expertise",
+            "path": "/expertise"
+        },
+        {
+            "title": "Industries",
+            "path": "/industries"
+        },
+        {
+            "title": "Brands",
+            "path": "/brands"
+        },
+        {
+            "title": "Careers",
+            "path": "/careers"
+        },
+        {
+            "title":"About Us",
+            "Path":"/about"
+        }
+    ]
+
+
+    }

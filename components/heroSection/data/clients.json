@@ -1,0 +1,27 @@
+{
+  "clients":[
+      {
+          "id": 1,
+          "title": "Bookgara",
+          "logo": "https://res.cloudinary.com/dhxccll9e/image/upload/v1662532930/homePage/clients/bookgara_vb1qyn.svg"
+        },
+        {
+          "id": 2,
+          "title": "FoodBuster",
+          "logo": "https://res.cloudinary.com/dhxccll9e/image/upload/v1662532930/homePage/clients/foodbuster_rd3t6y.svg"
+          
+        },
+        {
+          "id": 3,
+          "title": "GuitarShop",
+          "logo": "https://res.cloudinary.com/dhxccll9e/image/upload/v1666180367/homePage/clients/guitar-logo-best-music-store-guitar-shop-guitar-school-guitar-shop-logo-guitar-silhouette-117704879_ht4hdq.jpg"
+          
+        },
+        {
+          "id": 4,
+          "title": "sanima GI",
+          "logo": "https://res.cloudinary.com/dhxccll9e/image/upload/v1666180404/homePage/clients/download_pdqymn.png"
+          
+        }
+  ]
+}

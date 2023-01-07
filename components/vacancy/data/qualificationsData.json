@@ -1,0 +1,29 @@
+{
+                "Qualifications":[
+                        {
+                            "body":"At least 1 year of experience working as a frontend developer."
+                        },
+                        {
+                            "body":"Good knowledge of javascript frameworks preferably React JS." 
+                        },
+                        {
+                            "body":"In-depth knowledge of JavaScript, CSS, HTML, and front-end languages."
+                        },
+                        {
+                            "body":"Knowledge of REACT tools including React.js, Webpack, Redux, and Flux."
+                        },
+                        {
+                            "body":"Knowledge of performance testing frameworks including Mocha and Jest."
+                        },
+                        {
+                            "body":"Experience with browser-based debugging and performance testing software."
+                        },
+                        {
+                            "body":"Good documentation and communication skills."
+                        },
+                        {
+                            "body":"Willingness to learn new technologies and improve yourself."
+                        }
+          
+    ]
+}

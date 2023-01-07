@@ -1,0 +1,63 @@
+.text{
+    -webkit-text-stroke: 1px #000;
+    -webkit-text-fill-color: transparent;
+    box-sizing: border-box;
+    width: 100%;
+    
+  }
+  .textAbout{
+    -webkit-text-stroke: 1px white;
+    -webkit-text-fill-color: transparent;
+    box-sizing: border-box;
+    width: 100%;
+    
+  }
+
+  .hero-image {
+    background: url(https://res.cloudinary.com/dhxccll9e/image/upload/v1663668811/homePage/mainCard/work_02_-_Bookgara_eyirpo.svg) no-repeat center;
+    background-size: cover;
+    height: 500px;
+    position: relative;
+  }
+
+  .textContent{
+      display: -webkit-box;
+      -webkit-line-clamp: 4;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      text-overflow: ellipsis;
+  }
+
+  .containerAccordian {
+    display: flex;
+    flex-wrap: no-wrap;
+    justify-content: space-between;
+  }
+  .slideAcc {
+      left: 100px;
+      -webkit-animation: slide 0.5s forwards;
+      -webkit-animation-delay: 2s;
+      animation: slide 0.5s forwards;
+      animation-delay: 5s;
+  }
+  
+  @-webkit-keyframes slideAcc {
+      100% { left: 0; }
+  }
+  
+  @keyframes slideAcc {
+      100% { left: 0; }
+  }
+
+  .spin{
+    animation: spin 8s linear infinite;
+  }
+  
+  @keyframes spin {
+      from {
+          transform:rotate(0deg);
+      }
+      to {
+          transform:rotate(-360deg);
+      }
+  }

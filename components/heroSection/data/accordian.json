@@ -1,0 +1,22 @@
+{
+  "accordian": [
+    {
+      "id": 1,
+      "title": "Data Analysis",
+      "image": "https://res.cloudinary.com/dhxccll9e/image/upload/v1662536274/homePage/featuredInsights/accord_kfnsmk.jpg",
+      "body": "Data analysis is a process of inspecting, cleansing, transforming, and modelling data with the goal of discovering useful information, informing conclusions, and supporting decision-making."
+    },
+    {
+      "id": 2,
+      "title": "Artificial Intelligence",
+      "image": "https://res.cloudinary.com/dhxccll9e/image/upload/v1666071316/homePage/accordain/luke-chesser-JKUTrJ4vK00-unsplash_3_gsgnuu.svg",
+      "body": "Data analysis is a process of inspecting, cleansing, transforming, and modelling data with the goal of discovering useful information, informing conclusions, and supporting decision-making."
+    },
+    {
+      "id": 3,
+      "title": "Getting started with FOSS",
+      "image": "https://res.cloudinary.com/dhxccll9e/image/upload/v1662536274/homePage/featuredInsights/accord_kfnsmk.jpg",
+      "body": "Data analysis is a process of inspecting, cleansing, transforming, and modelling data with the goal of discovering useful information, informing conclusions, and supporting decision-making."
+    }
+  ]
+}

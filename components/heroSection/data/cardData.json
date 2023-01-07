@@ -1,0 +1,35 @@
+{
+  
+  "cardData":[
+      {
+          "pid": "01",
+          "title": "Adeyelta",
+          "name": "adeyelta",
+          "description":
+            "Automate your AI lifecycle with Adeyelta's SaaS platform. Build powerful models and increase the efficiency.",
+          "image":
+            "https://res.cloudinary.com/dhxccll9e/image/upload/v1662534541/homePage/heroSection/adeyelta_x8ybxy.svg",
+          "link": "https://adeyelta.com"
+        },
+        {
+          "pid": "02",
+          "title": "Thrunode ERP/CRM",
+          "name":"thrunode",
+          "description":
+            "Eydean ERP is the next generation business information system that will help you grow your business.",
+          "image":
+            "https://res.cloudinary.com/dhxccll9e/image/upload/v1662534640/homePage/heroSection/thrunode_igpc5p.svg",
+          "link": "https://thrunode.com"
+        },
+        {
+          "pid": "03",
+          "title": "Fleet/Logistics",
+          "name":"fleets",
+          "description":
+            "Automate your AI lifecycle with Adeyelta's SaaS platform. Build powerful models and increase the efficiency.",
+          "image":
+            "https://res.cloudinary.com/dhxccll9e/image/upload/v1665638039/homePage/heroSection/fleets_xegfb4.svg",
+          "link": "https://adeyelta.com"
+        }
+  ]
+}
